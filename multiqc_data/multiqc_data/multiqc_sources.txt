@@ -1,0 +1,22 @@
+Module	Section	Sample Name	Source
+Kallisto	all_sections	SRR8668774	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/CL13.log
+Kallisto	all_sections	SRR8668773	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/CL12.log
+Kallisto	all_sections	SRR8668771	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/CL10.log
+Kallisto	all_sections	SRR8668772	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/CL11.log
+Kallisto	all_sections	SRR8668757	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/HS03.log
+Kallisto	all_sections	SRR8668756	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/HS02.log
+Kallisto	all_sections	SRR8668755	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/HS01.log
+Kallisto	all_sections	SRR8668759	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/HS05.log
+Kallisto	all_sections	SRR8668769	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/CL08.log
+Kallisto	all_sections	SRR8668758	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/HS04.log
+FastQC	all_sections	SRR8668757	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/SRR8668757_fastqc.zip
+FastQC	all_sections	SRR8668771	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/SRR8668771_fastqc.zip
+FastQC	all_sections	SRR8668774	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/SRR8668774_fastqc.zip
+FastQC	all_sections	SRR8668755	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/SRR8668755_fastqc.zip
+FastQC	all_sections	SRR8668758	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/SRR8668758_fastqc.zip
+FastQC	all_sections	SRR8668773	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/SRR8668773_fastqc.zip
+FastQC	all_sections	SRR8668755_1M_subsample	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/SRR8668755_1M_subsample_fastqc.zip
+FastQC	all_sections	SRR8668769	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/SRR8668769_fastqc.zip
+FastQC	all_sections	SRR8668756	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/SRR8668756_fastqc.zip
+FastQC	all_sections	SRR8668759	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/SRR8668759_fastqc.zip
+FastQC	all_sections	SRR8668772	/Users/guillem/Library/CloudStorage/OneDrive-PennO365/Documents/PhD/1st Year/UPenn/Spring/CAMB 7140/course_dataset/raw_data/SRR8668772_fastqc.zip
